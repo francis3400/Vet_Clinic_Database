@@ -99,6 +99,7 @@ After you're finished please remove all the comments and instructions!
 - **[Create a relational database]**
 - **[Use SQL to querry data from database tables]**
 - **[Update and insert data using SQL queries]**
+- **[Update Schema.sql file if some changes are required]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
