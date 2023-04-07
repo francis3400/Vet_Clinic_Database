@@ -94,7 +94,18 @@ After you're finished please remove all the comments and instructions!
 
 <!-- Features -->
 
-### Key Features <a name="key-features future-features"></a>
+### Key Features <a name="key-features"></a>
+
+- **[Create a relational database]**
+- **[Use SQL to querry data from database tables]**
+- **[Update and insert data using SQL queries]**
+- **[Update Schema.sql file if some changes are required]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!--Future Features -->
+
+### Future Features <a name="future-features"></a>
 
 - **[Create a relational database]**
 - **[Use SQL to querry data from database tables]**
