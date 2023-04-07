@@ -94,7 +94,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
+### Key Features <a name="key-features future-features"></a>
 
 - **[Create a relational database]**
 - **[Use SQL to querry data from database tables]**
